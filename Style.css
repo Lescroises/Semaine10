@@ -1,0 +1,40 @@
+header {
+    background:url("Image/darkNoise.png");
+    position:relative;
+    text-align:center;
+    border-style:solid;
+    border-color:white;
+    font-size:30px;
+    font-family:times;
+    color:white;
+    margin-bottom:300px;
+}
+
+p{
+    font-family:times;
+    font-size: 20px;
+    color:#FF4500;
+}
+
+body{
+    background:url("Image/background.jpg");
+    text-align:center;
+}
+
+
+button {
+    background-color:#e3f1f5;
+    border-radius:10px;
+    margin-bottom:15px;
+    margin-top:40px;
+}
+
+#affichage {
+    background:url("Image/darkNoise.png");
+    font-size:50px;
+    border-color:blue;
+    border: 5px solid;
+    font-family:times;
+    color:white;
+    margin-top:50px;
+}
